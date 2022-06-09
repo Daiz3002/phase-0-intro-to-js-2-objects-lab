@@ -4,6 +4,4 @@ let employee = {
     streetAddress: 'Queensland'
 };
 
-let updateEmployeeWithKeyAndValue() {
-    
-}
+let updateEmployeeWithKeyAndValue = ('employee', 'key', 'value')
